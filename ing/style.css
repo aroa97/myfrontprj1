@@ -1,0 +1,22 @@
+/* 여기부터 책의 코드를 작성해주세요 */
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* header css */
+
+.container {
+    width: 1140px;
+    margin: 0px auto;
+}
+
+/* header{
+    position:fixed;
+    color:white;
+    top:0;
+    z-index:1;
+    width:100%;
+    padding:1rem;
+  } */
