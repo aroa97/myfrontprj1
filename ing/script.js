@@ -1,7 +1,7 @@
 /* 여기부터 책의 코드를 작성해주세요 */
 (function(){
     const spanEl = document.querySelector("main h2 span");
-    const txtArr = ['Web Publisher', 'Front-End Developer', 'Web UI Designer', 'UX Designer', 'Back-End Developer'];
+    const txtArr = ['Unity 프로그래머입니다.', 'Front-End 개발자입니다.', 'Back-End 개발자입니다.'];
     let index = 0;
     let currentTxt = txtArr[index].split("");
     function writeTxt(){
